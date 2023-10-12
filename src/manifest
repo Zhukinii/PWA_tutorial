@@ -1,6 +1,6 @@
 {"name": "calculator",
  "short_name": "calculator",
- "start_url": "/",
+ "start_url": "https://github.com/Zhukinii/calculator",
  "background_color": "#6dcdb1",
  "theme_color": "#009578",
  "display": "standalone",
